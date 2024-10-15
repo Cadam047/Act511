@@ -25,4 +25,6 @@
 
 You're assignment is to write the tests marked TODO in the tests/tests.py file.
 
+Make sure you test the additional functionality on the decrement button (the count is not allowed to go below 0).
+
 If you finish this work and there's still time, add a 100x mode checkbox and write tests for that. How the 100x and 10x buttons interact/overlap is left up to you.
