@@ -4,7 +4,7 @@
 
 ### One-Time Setup
 
-1. Clone this repo into your cloud shell editor with `git clone <TODO>`
+1. Clone this repo into your cloud shell editor with `git clone <this repo>`
 1. Create local virtual environment `python3 -m venv venv`
 1. Install dependencies `pip install -r requirements.txt`
 
