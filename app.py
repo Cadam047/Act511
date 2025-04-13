@@ -3,6 +3,7 @@ import streamlit as st
 # Set up session state variables
 if "ten_x" not in st.session_state:
     # ten_x mode changes our buttons to increment and decrement by 10 instead of by 1
+    # checking changes
     st.session_state.ten_x = 0
 
 if "count" not in st.session_state:
